@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <addon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:noNamespaceSchemaLocation="metadata.xsd" id="plugin.program.steves-launcher"
-    name="Applications" version="1.0.0" provider-name="SteveTheEngineer"
+    name="Applications" version="1.0.1" provider-name="SteveTheEngineer"
 >
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
