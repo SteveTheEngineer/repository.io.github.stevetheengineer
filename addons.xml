@@ -18,7 +18,7 @@
         <platform>all</platform>
         <source>https://github.com/SteveTheEngineer/repository.io.github.stevetheengineer</source>
     </extension>
-</addon><addon xsi:noNamespaceSchemaLocation="metadata.xsd" id="plugin.program.steves-launcher" name="Applications" version="1.1.1" provider-name="SteveTheEngineer">
+</addon><addon xsi:noNamespaceSchemaLocation="metadata.xsd" id="plugin.program.steves-launcher" name="Applications" version="1.1.2" provider-name="SteveTheEngineer">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
     </requires>
